@@ -1,0 +1,16 @@
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.exe
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.deps.json
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.runtimeconfig.json
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.runtimeconfig.dev.json
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.dll
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\ref\Chapter1.dll
+C:\PBO\Praktikum\Chapter1\bin\Debug\net5.0\Chapter1.pdb
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.csprojAssemblyReference.cache
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.AssemblyInfoInputs.cache
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.AssemblyInfo.cs
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.csproj.CoreCompileInputs.cache
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.dll
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\ref\Chapter1.dll
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.pdb
+C:\PBO\Praktikum\Chapter1\obj\Debug\net5.0\Chapter1.genruntimeconfig.cache
